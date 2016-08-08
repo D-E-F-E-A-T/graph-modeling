@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ReplState" timestamp="1470694397340">{:repl-history {:ide [], :local [&quot;(ns graph-data-modelling.core\n  (:require [ubergraph.core :as uber]))&quot; &quot;(uber/pprint ())&quot; &quot;(uber/pprint (uber/graph [:a :b :a :c :b :d]))&quot;], :remote []}}</component>
+</project>
