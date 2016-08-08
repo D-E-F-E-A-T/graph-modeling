@@ -11,4 +11,3 @@
     [:city :flight]))
 
 (uber/pprint airport)
-
