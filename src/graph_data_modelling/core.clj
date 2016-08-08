@@ -10,4 +10,4 @@
     [:flight {:code "AC702" :carrier "Air Canada" :duration 96 :source-airport-code "ORD" :destination-aiport "JFK" :departure 1130 :arrival 1226}]
     [:city :flight]))
 
-(uber/pprint airport) 
+(uber/pprint airport)
