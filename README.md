@@ -1,4 +1,4 @@
-# graph-data-modelling
+# graph-data-modeling
 
 A Clojure library designed to ... well, that part is up to you.
 
